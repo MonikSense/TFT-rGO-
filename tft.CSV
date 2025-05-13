@@ -1,4 +1,4 @@
-structure,VT (V),SS (Vdec),IonIoff,OSC Material,Dielectric Material,Gate Material
+structure,VTÂ (V),SS (Vdec),IonIoff,OSC Material,Dielectric Material,Gate Material
 TGBC,?0.86,0.163,1.00E+06,Pentacene,Al2O3,Aluminum(Al)
 TGTC,?0.97,0.119,1.00E+05,Pentacene,Al2O3,Aluminum(Al)
 BGTC,?1.06,0.13,1.00E+05,Pentacene,Al2O3,Aluminum(Al)
@@ -24,20 +24,19 @@ BGTC,1.2,0.32,9.50E+03,Pentacene,Al2O3,Aluminum (Al)
 BGBC,1.1,0.26,1.90E+04,Pentacene,Al2O3,Aluminum (Al)
 BGTC,2.2,0.32,4.50E+03,Pentacene,Al2O3,Al
 BGTC,?0.815,0.428,1.00E+06,Pentacene,Al2O3,Ti
-TGBC,?1.0,0.36,2.00E+03,Pentacene,SiO2,n+ Si
-TGTC,?1.2,0.28,4.00E+03,Pentacene,SiO2,n+ Si
-BGTC,?1.4,0.25,3.00E+04,Pentacene,SiO2,n+ Si
-BGBC,?1.1,0.3,3.00E+03,Pentacene,SiO2,n+ Si
-BGBC,?2.0,2,3.20E+03,Pentacene,SiO2,n+ Si
-BGBC,?2.61,1.1,1.28E+03,Pentacene,SiO2,n+ Si
+TGBC,?1.0,0.36,2.00E+03,Pentacene,SiO2,n+Â Si
+TGTC,?1.2,0.28,4.00E+03,Pentacene,SiO2,n+Â Si
+BGTC,?1.4,0.25,3.00E+04,Pentacene,SiO2,n+Â Si
+BGBC,?1.1,0.3,3.00E+03,Pentacene,SiO2,n+Â Si
+BGBC,?2.0,2,3.20E+03,Pentacene,SiO2,n+Â Si
+BGBC,?2.61,1.1,1.28E+03,Pentacene,SiO2,n+Â Si
 BGTC,?0.9,0.2,1.00E+03,Pentacene,Al2O3,Aluminum(Al)
 BGBC,?0.1,0.8,1.00E+05,Pentacene,Al2O3,Aluminum(Al)
 BGTC,?32,7.2,1.00E+05,Pentacene,PET,PEDOT: PSS
 BGBC,?30,14.5,1.00E+05,Pentacene,PET,PEDOT: PSS
-BGBC,1.05,0.11,1.20E+04,ZnO,SiO2 +Al2O3,p-Si
-BGBC,?0.57,0.17,2.10E+04,Pentacene,SiO2 +Al2O3,p-Si
+BGBC,1.05,0.11,1.20E+04,ZnO,SiO2Â +Al2O3,p-Si
+BGBC,?0.57,0.17,2.10E+04,Pentacene,SiO2Â +Al2O3,p-Si
 BG,?8,1.3,1.00E+05,Pentacene,PVP copolymer Cross- linked PVP SiO2+ OTS SiO2,Silicon
 BG,?5,1.2,1.00E+05,Pentacene,PVP copolymer Cross- linked PVP SiO2+ OTS SiO2,Silicon
 BG,?1,0.5,1.00E+07,Pentacene,PVP copolymer Cross- linked PVP SiO2+ OTS SiO2,Silicon
 BG,2,0.7,1.00E+06,Pentacene,PVP copolymer Cross- linked PVP SiO2+ OTS SiO2,Silicon
-,,,,,,
